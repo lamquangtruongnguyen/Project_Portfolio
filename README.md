@@ -1,2 +1,2 @@
 # Project_Portfolio
-This rep consists of projects built along my coding journey
+These projects have been built along my journey of taking the Web Development Bootcamp on Udemy
